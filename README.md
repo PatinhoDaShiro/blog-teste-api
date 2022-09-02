@@ -8,6 +8,6 @@
 ## Layout:
 
 <div align="center">
-![ml5JNdG](https://user-images.githubusercontent.com/81689830/188161229-886092da-bc63-4f77-81bf-964dddb11794.png)
+<img src="https://user-images.githubusercontent.com/81689830/188161229-886092da-bc63-4f77-81bf-964dddb11794.png"</img>
 
 </div>
